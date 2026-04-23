@@ -1,1 +1,9 @@
-﻿{}
+﻿{
+    "version":  "1.0.0",
+    "chromium_base":  "148.0.7760.0",
+    "sha256":  "0302e9945e5de94182382cc04cbce75f65c0255697cc9f75a635e73179a431d1",
+    "size":  126295791,
+    "url":  "TBD — fill in after: gh release create chrome-v1.0.0 ...",
+    "date":  "2026-04-23T07:05:15Z",
+    "notes":  ""
+}
