@@ -1,9 +1,9 @@
 {
-    "version":  "1.0.0",
+    "version":  "1.0.1",
     "chromium_base":  "148.0.7760.0",
-    "sha256":  "0302e9945e5de94182382cc04cbce75f65c0255697cc9f75a635e73179a431d1",
-    "size":  126295791,
-    "url":  "https://github.com/openteelab/joker-chrome-releases/releases/download/chrome-v1.0.0/joker-chrome-1.0.0-win64.7z",
-    "date":  "2026-04-23T07:05:15Z",
-    "notes":  ""
+    "sha256":  "58412cc46552ae8d79416bf652e3241aac7c49121e18ae3a599b282140a0b338",
+    "size":  202947871,
+    "url":  "https://github.com/openteelab/joker-chrome-releases/releases/download/chrome-v1.0.1/joker-chrome-1.0.1-win64.7z",
+    "date":  "2026-05-11T07:22:33Z",
+    "notes":  "Fix Element.getClientRects null deref crash (Yahoo recovery / IPQS pages)"
 }
